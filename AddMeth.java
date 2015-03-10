@@ -7,7 +7,7 @@ class AddMeth {
 		Vehicle sportcar = new Vehicle();
 		int range1, range2;
 
-		//яЁшётюшЄ№ чэрўхэш  яюы ь юс·хъЄют
+		//присвоить значения полям объектов
 		minivan.passengers = 7;
 		minivan.fuelcap = 16;
 		minivan.mpg = 21;
